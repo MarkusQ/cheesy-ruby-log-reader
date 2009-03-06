@@ -1,0 +1,9 @@
+A ruby script I put together in the late 1990s to 
+parse log files and mail a report to one or more people.
+The first 250 lines are so are the engine, followed by an 
+example reporting template (that's the part you'll want to
+customize).
+
+No magic or DSL goodness, just a quick hack that someone 
+might find useful.
+
